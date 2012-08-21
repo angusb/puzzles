@@ -1,4 +1,4 @@
 puzzles
 =======
 
-sometimes interview questions can be fun
+Sometimes interview questions can be fun. This houses a couple scripts I've hacked together.
