@@ -21,7 +21,7 @@ def location_data(loc_list):
                                             "temperature": 36,
                                             "timestamp": "2012-06-14 13:09:00"}
 
-    And returns data in the format of {'date': {hour: [list]}}
+    And returns data in the format of {'date': {hour: [temperatures]}}
     """
     loc_data = {}
     for loc_day in loc_list:
